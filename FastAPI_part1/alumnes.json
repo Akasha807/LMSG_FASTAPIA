@@ -1,0 +1,16 @@
+alumnes = [
+    {"id": 1, "nom": "Akasha", "cognom": "Karam", "data": {"dia": 12, "mes": 5, "any": 2001},
+     "email": "akasha.karam@email.com", "feina": True, "curs": "Enginyeria Informàtica"},
+    {"id": 2, "nom": "Brithay", "cognom": "Silva", "data": {"dia": 8, "mes": 11, "any": 2000},
+     "email": "brithay.silva@email.com", "feina": False, "curs": "Disseny Gràfic"},
+    {"id": 3, "nom": "Nerea", "cognom": "Naves", "data": {"dia": 22, "mes": 3, "any": 2002},
+     "email": "nerea.naves@email.com", "feina": True, "curs": "Psicologia"},
+    {"id": 4, "nom": "Adriana", "cognom": "Sanchez", "data": {"dia": 15, "mes": 7, "any": 1999},
+     "email": "adriana.sanchez@email.com", "feina": False, "curs": "Administració d'Empreses"},
+    {"id": 5, "nom": "Alex", "cognom": "Moreno", "data": {"dia": 30, "mes": 9, "any": 2003},
+     "email": "alex.moreno@email.com", "feina": True, "curs": "Matemàtiques"},
+    {"id": 6, "nom": "Mario", "cognom": "Mosquera", "data": {"dia": 5, "mes": 2, "any": 2001},
+     "email": "mario.mosquera@email.com", "feina": False, "curs": "Història"},
+    {"id": 7, "nom": "Alejandro", "cognom": "Muñoz", "data": {"dia": 17, "mes": 6, "any": 2000},
+     "email": "alejandro.munoz@email.com", "feina": True, "curs": "Enginyeria Mecànica"},
+]
